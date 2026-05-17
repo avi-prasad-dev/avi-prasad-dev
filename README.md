@@ -22,5 +22,5 @@ I am a working professional executing a disciplined career transition into Backe
 ### 📈 Why Follow My Journey?
 I believe in documenting my growth. Every single day, I push my practice scripts, logic building exercises, and mini-projects here to keep myself accountable and track my progress.
 
-- 💼 **LinkedIn:** [Insert Your LinkedIn Profile Link]
+- 💼 **LinkedIn:** [www.linkedin.com/in/avi-prasad-06058840b]
 - 📧 **Email:** [avi.prasad.dev@gmail.com]
